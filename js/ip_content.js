@@ -1,4 +1,4 @@
-//获取当前IP地址和浏览器标识
+/*获取当前IP地址和浏览器标识*/
 function getBrowserInfo() {
     var agent = navigator.userAgent.toLowerCase();
 
