@@ -6,7 +6,7 @@
   <link href="https://zeronerg.github.io/atom.xml" rel="self"/>
   
   <link href="https://zeronerg.github.io/"/>
-  <updated>2021-04-21T17:56:33.853Z</updated>
+  <updated>2021-05-04T16:27:33.620Z</updated>
   <id>https://zeronerg.github.io/</id>
   
   <author>
@@ -17,13 +17,13 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>测试</title>
-    <link href="https://zeronerg.github.io/article/784dd132"/>
-    <id>https://zeronerg.github.io/article/784dd132</id>
-    <published>2021-04-21T16:48:00.000Z</published>
-    <updated>2021-04-21T17:56:33.853Z</updated>
+    <title>关于ZerOne</title>
+    <link href="https://zeronerg.github.io/article/b0c032ef"/>
+    <id>https://zeronerg.github.io/article/b0c032ef</id>
+    <published>2021-05-04T11:53:00.000Z</published>
+    <updated>2021-05-04T16:27:33.620Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="固定链接插件-hexo-abbrlink"><a href="#固定链接插件-hexo-abbrlink" class="headerlink" title="固定链接插件: hexo-abbrlink"></a>固定链接插件: hexo-abbrlink</h2><h3 id="是否自动为每篇文章生成一串数字作每篇文章的URI地址"><a href="#是否自动为每篇文章生成一串数字作每篇文章的URI地址" class="headerlink" title="是否自动为每篇文章生成一串数字作每篇文章的URI地址"></a>是否自动为每篇文章生成一串数字作每篇文章的URI地址</h3>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="关于ZerOne"><a href="#关于ZerOne" class="headerlink" title="关于ZerOne"></a>关于ZerOne</h1><font>&emsp;&emsp;ZerOne-我的第一个博客。</font><br><font>&emsp;&emsp;大约在大半年前，同班的小伙伴搭建了一个属于自己的博客网站，真的是羡煞旁人啊。不过我还是挺佩服我的小伙伴的，疫情停课大半年回来后依然这么热情昂扬。让我明白自主学习真的比被动接受来得强。虽然我也是有点羡慕啦(o｀ε´o)，但是吧，当时还是比较喜欢玩，学习也只是局限于课堂上的知识，技术一般般，基础还不牢固(╥╯﹏╰╥)ง，所以在面对搭建博客这个超出我知识范畴的未知事物时，也就望而却步了。但是，这也成为我后来搭建ZerOne的起因之一。（毕竟咱也不比别人差嘛٩(๑`^´๑)۶，哈哈哈嗝~）</font><br><font>&emsp;&emsp;直到今年的4月份，一时兴起决定要搭建个人博客。于是便来了一场说走就走的“旅行”-在B站游荡了三天，做好了充足准备。但真正开始动手后发现，还是好难哇( 。ớ ₃ờ)ھ，不过在我坚持不懈的努力下，历经千辛万苦，终于ZerOne宣告成功！历时11天7时59分01秒。（撒花～）</font><br><font>&emsp;&emsp;关于ZerOne，搭建完后，想了好久也不知道写什么，做一个技术博主吧，感觉自己好像还缺点火候。做一个生活博主吧，既不文艺，文笔也不太行。犹犹豫豫，最后写下本文，权当是迈向美好未来的第一篇吧！</font><br><h3 id="写在后面"><a href="#写在后面" class="headerlink" title="写在后面"></a>写在后面</h3><font>&emsp;&emsp;那啥，虽然本博主高中时也是一名正儿八经的文科生，但是作文依然是令博主十分头疼的一件事。所以，文章写得略微有一些粗糙，还请各位将就看看，毕竟咱还是以搞技术为主。嘿嘿（*＾3＾）</font><br>]]></content>
     
     
       
@@ -33,6 +33,10 @@
     
     
     
+    <category term="关于我" scheme="https://zeronerg.github.io/categories/%E5%85%B3%E4%BA%8E%E6%88%91/"/>
+    
+    
+    <category term="ZerOne" scheme="https://zeronerg.github.io/tags/ZerOne/"/>
     
   </entry>
   
@@ -41,7 +45,7 @@
     <link href="https://zeronerg.github.io/article/4a17b156"/>
     <id>https://zeronerg.github.io/article/4a17b156</id>
     <published>2021-04-19T00:59:52.487Z</published>
-    <updated>2021-04-21T16:44:11.637Z</updated>
+    <updated>2021-05-04T11:39:50.655Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
