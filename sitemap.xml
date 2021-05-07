@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zeronerg.github.io/article/b0c032ef</loc>
+    
+    <lastmod>2021-05-07</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://zeronerg.github.io/about/index.html</loc>
     
     <lastmod>2021-05-05</lastmod>
@@ -72,13 +79,6 @@
   </url>
   
   <url>
-    <loc>https://zeronerg.github.io/article/b0c032ef</loc>
-    
-    <lastmod>2021-05-04</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://zeronerg.github.io/pictures/index.html</loc>
     
     <lastmod>2021-05-04</lastmod>
@@ -116,7 +116,7 @@
 
   <url>
     <loc>https://zeronerg.github.io/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -124,7 +124,7 @@
   
   <url>
     <loc>https://zeronerg.github.io/tags/ZerOne/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -133,7 +133,7 @@
   
   <url>
     <loc>https://zeronerg.github.io/categories/%E5%85%B3%E4%BA%8E%E6%88%91/</loc>
-    <lastmod>2021-05-05</lastmod>
+    <lastmod>2021-05-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
